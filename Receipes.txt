@@ -4,6 +4,13 @@ Soup
 Pasta
 Chicken
 
+Beans
+Pizza
+
 Thank you!
 
+
+Done my changes
+
 Last copy
+
