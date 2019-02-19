@@ -6,4 +6,7 @@ Soup
 Pasta
 Chicken
 
+Beans
+Pizza
+
 Thank you!
